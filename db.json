@@ -1,0 +1,29 @@
+{
+    "employee": [
+      {
+        "id": 1,
+        "name": "Ritick",
+        "address": "xyz456"
+      },
+      {
+        "id": 2,
+        "name": "Riya",
+        "address": "abc123"
+      },
+      {
+        "id": 3,
+        "name": "Sneha",
+        "address": "afc563"
+      },
+      {
+        "id": 4,
+        "name": "Tiya",
+        "address": "uhr652"
+      },
+      {
+        "id": 5,
+        "name": "Mishti",
+        "address": "abcuhr893"
+      }
+    ]
+  }
